@@ -1,7 +1,7 @@
 // Liste complète des armes avec leurs images personnalisées
 const weaponsData = [
     // PISTOLETS
-    { name: "GLUEGUN", cat: "pistolets", price: 15, image: "gluegun.png" },
+    { name: "GLUEGUN", cat: "pistolets", price: 15, image: "GLUEGUN.png" },
     { name: "Revolver Carrot", cat: "pistolets", price: 8, image: "Revolver Carrot.png" },
     { name: "Revolver DRAGON", cat: "pistolets", price: 15, image: "Revolver DRAGON.png" },
     { name: "Deagle DRAGON", cat: "pistolets", price: 8, image: "Deagle DRAGON.png" },
@@ -39,26 +39,26 @@ const weaponsData = [
     { name: "SMG MK2", cat: "smg", price: 7, image: "SMG MK2.png" },
     { name: "STRIKER 74", cat: "smg", price: 15, image: "STRIKER 74.png" },
     { name: "Santas", cat: "smg", price: 5, image: "Santas.png" },
-    { name: "PPSH41", cat: "smg", price: 75, image: "ppsh41.png" },
+    { name: "PPSH41", cat: "smg", price: 75, image: "PPSH41.png" },
     { name: "Tec Carrot", cat: "smg", price: 2, image: "Tec Carrot.png" },
     { name: "WOLFRIFLE V2", cat: "smg", price: 30, image: "WOLFRIFLE V2.png" },
-    { name: "SCARHARG", cat: "smg", price: 25, image: "scarharg.png" },
+    { name: "SCARHARG", cat: "smg", price: 25, image: "SCARHARG.png" },
     { name: "SCREAM SPEAR", cat: "smg", price: 30, image: "SCREAM SPEAR.png" },
     { name: "SWERV AR13", cat: "smg", price: 30, image: "SWERV AR13.png" },
     { name: "Compaact Compact", cat: "smg", price: 10, image: "Compaact Compact.png" },
     
     // FUSILS D'ASSAUT
-    { name: "PREDATOR", cat: "fusils", price: 10, image: "predator.png" },
+    { name: "PREDATOR", cat: "fusils", price: 10, image: "PREDATOR.png" },
     { name: "AK-REDL", cat: "fusils", price: 10, image: "AK-REDL.png" },
-    { name: "AKOLD", cat: "fusils", price: 10, image: "akold.png" },
-    { name: "STEIN", cat: "fusils", price: 10, image: "stein.png" },
-    { name: "MCXMODULAR", cat: "fusils", price: 40, image: "mcxmodular.png" },
-    { name: "ROM22", cat: "fusils", price: 80, image: "rom22.png" },
+    { name: "AKOLD", cat: "fusils", price: 10, image: "AKOLD.png" },
+    { name: "STEIN", cat: "fusils", price: 10, image: "STEIN.png" },
+    { name: "MCXMODULAR", cat: "fusils", price: 40, image: "MCXMODULAR.png" },
+    { name: "ROM22", cat: "fusils", price: 80, image: "ROM22.png" },
     { name: "CARABINE ASSAUT MK-2", cat: "fusils", price: 10, image: "CARABINE ASSAUT MK-2.png" },
     { name: "CARABINE SPECIAL MK-2", cat: "fusils", price: 10, image: "CARABINE SPECIAL MK-2.png" },
     { name: "M4 NEBULA PINK", cat: "fusils", price: 25, image: "M4 NEBULA _PINK.png" },
-    { name: "SKULLAR", cat: "fusils", price: 70, image: "skullar.png" },
-    { name: "Unicorn", cat: "fusils", price: 8, image: "unicorn.png" },
+    { name: "SKULLAR", cat: "fusils", price: 70, image: "SKULLAR.png" },
+    { name: "Unicorn", cat: "fusils", price: 8, image: "Unicorn.png" },
     
     // POMPES
     { name: "Carabine d'assaut", cat: "pompes", price: 15, image: "Carabine d'assaut.png" },
@@ -96,7 +96,7 @@ const weaponsData = [
     { name: "Black Sniper", cat: "snipers", price: 45, image: "Black Sniper.png" },
     { name: "Sniper July", cat: "snipers", price: 40, image: "Sniper July.png" },
     { name: "Sniper East", cat: "snipers", price: 45, image: "Sniper East.png" },
-    { name: "Hkhall", cat: "snipers", price: 18, image: "hkhall.png" },
+    { name: "Hkhall", cat: "snipers", price: 18, image: "Hkhall.png" },
     { name: "Sniper Hall", cat: "snipers", price: 50, image: "Sniper Hall.png" }
 ];
 
